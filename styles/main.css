@@ -1,0 +1,123 @@
+body {
+	border: 1px solid black;
+	max-width: 850px;
+	margin: auto;
+}
+
+.main-title {
+	font-family: Merriweather, serif;
+	font-style: normal;
+	font-size: 34px;
+	color: yellow;
+}
+
+.col-big {
+	background-color: #ccc;
+	padding: 0;
+}
+
+.main-header {
+	border-bottom: 4px solid yellow;
+	padding: 10px 30px;
+}
+
+.head-foot-color {
+	background-color: black;
+	font-family: Merriweather, serif;
+}
+
+nav {
+ 	float: right;
+ 	padding-bottom: 20px;
+}
+
+a {
+	font-family: Oswald, sans-serif;
+	color: white;
+	font-size: 22px;
+    padding: 5px;
+    text-decoration: none;  
+}
+
+.nav-upper {
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.headline {
+	font-family: "Times New Roman", serif;
+	font-size: 30px;
+	font-style: italic;
+	text-align: center;
+}
+
+del {
+	color: #999;
+}
+
+.underline {
+	text-decoration: none;
+  	border-bottom: 3px solid yellow;
+}
+
+.col-back-img {
+	background: url('https://c1.staticflickr.com/4/3209/2733534094_65f8856160_b.jpg') center no-repeat scroll;
+	background-size: cover;
+	overflow: hidden;
+	padding: 30px;
+}
+
+.first-col-4 {
+	background-color: rgba(255, 255, 255, 0.8);
+	height: 320px;
+	width: 250px;
+	float: right;
+	padding: 30px;
+}
+
+.title-first {
+	font-family: sourse sans pro, sans-serif;
+}
+.title-second {
+	font-family: Merriweather, serif;
+	font-weight: bold;
+}
+
+p {
+	font-family: sourse sans pro, sans-serif;
+	font-size: 18px;
+	line-height: 1.8rem;
+}
+
+.foot {
+	color: white;
+	font-size: 16px;
+	padding: 3px 15px;
+}
+
+.button-upper {
+	text-transform: uppercase;
+	font-family: oswald, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: #ccc;
+	padding: 12px;
+	border-radius: 8px;
+	width: 220px;
+}
+
+.button-yellow {
+	background-color: yellow;
+}
+
+.col-border {
+	border-right: 1px solid #ccc;
+	padding: 30px;
+}
+
+
+
+
+
+
